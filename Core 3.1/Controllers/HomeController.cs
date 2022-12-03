@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace Core_3._1.Controllers
 {
     public class HomeController : Controller
-    {//
+    {//Test
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
